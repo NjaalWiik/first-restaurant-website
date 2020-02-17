@@ -10,6 +10,12 @@
     min-height:100px;
 }
 
+.about-content {
+    padding: 24px 0px 8px 0px;
+    border-bottom: 1px ridge;
+    min-height:0px;
+}
+
 .footer{
     background-color: #D1C4E9;
     margin:0px auto;
